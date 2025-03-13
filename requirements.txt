@@ -2,6 +2,6 @@ tensorflow
 cmake
 scikit-learn
 opencv-python
-dlib==19.22.99
+dlib-bin
 face-recognition
 streamlit
