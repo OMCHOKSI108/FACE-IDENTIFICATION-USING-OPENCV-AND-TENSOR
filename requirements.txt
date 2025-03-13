@@ -4,3 +4,4 @@ scikit-learn
 opencv-python
 face-recognition
 streamlit
+dlib==19.22.99
