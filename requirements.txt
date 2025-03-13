@@ -1,4 +1,5 @@
 tensorflow
+cmake
 scikit-learn
 opencv-python
 face-recognition
