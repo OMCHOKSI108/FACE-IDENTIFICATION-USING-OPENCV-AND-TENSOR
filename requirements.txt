@@ -1,5 +1,5 @@
 cmake
-dlib
+https://github.com/coneypo/Dlib_install/blob/master/for_linux/opencv_python-4.1.1.26-cp35-cp35m-manylinux1_x86_64.whl
 face-recognition
 opencv-python
 tensorflow
