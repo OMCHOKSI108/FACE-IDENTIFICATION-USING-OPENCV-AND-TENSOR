@@ -1,1 +1,2 @@
-python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
+git clone https://github.com/davisking/dlib
+python3 setup.py install
