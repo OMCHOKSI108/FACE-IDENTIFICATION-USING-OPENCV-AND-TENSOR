@@ -7,7 +7,7 @@ import tempfile
 
 # Load trained model
 def load_trained_model():
-    with open("face_embeddings.pkl", "rb") as f:
+    with open("model/face_embeddings.pkl", "rb") as f:
         data = pickle.load(f)
     return data["encodings"], data["names"]
 
